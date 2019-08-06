@@ -1,10 +1,10 @@
-.Z_m {
+.p_v {
   z-index: 1000;
   width: 100%;
   height: .96rem;
   color: #fff;
   background: #ddd; }
-  .Z_m .Z_G {
+  .p_v .p_4 {
     padding: 0.22rem 0;
     line-height: .52rem;
     font-size: .36rem;
@@ -16,19 +16,19 @@
     left: 50%;
     -webkit-transform: translateX(-50%);
             transform: translateX(-50%); }
-.K_V {
+.v_Q {
   display: none;
   margin: 20px auto;
   width: 75%; }
 
-.K_7 {
+.v_r {
   width: 100%;
   border: 8px solid orange; }
 
 body {
   text-align: center; }
 
-canvas.K_M {
+canvas.v_H {
   image-rendering: optimizeSpeed;
   /* Older versions of FF          */
   image-rendering: -moz-crisp-edges;
@@ -52,7 +52,7 @@ canvas.K_M {
   height: auto;
   margin: auto; }
 
-#K_b {
+#v_w {
   margin-top: 10px; }
 html, body {
   height: 100%; }
@@ -148,7 +148,7 @@ body {
   background: #9db3b9;
   font-size: 30px; }
 
-.G_f {
+.Y_n {
   width: 19.8em;
   height: 33.1em;
   background: #e6e7e8;
@@ -158,7 +158,7 @@ body {
   position: relative;
   border: 0.1em solid #f3fbf5; }
 
-.G_a {
+.Y_I {
   width: 0.4em;
   height: 1.7em;
   background: #d8d9db;
@@ -168,10 +168,10 @@ body {
   border-left: 0.1em solid #c0c2c4;
   left: 1.4em;
   z-index: 10; }
-  .G_a + .G_a {
+  .Y_I + .Y_I {
     left: 17.5em; }
 
-.G_H {
+.Y_N {
   width: 100%;
   height: 0.4em;
   background: #d8d9db;
@@ -180,7 +180,7 @@ body {
   position: absolute;
   top: 1.7em; }
 
-.G_w {
+.Y_A {
   width: 3em;
   height: 0.7em;
   background: #d8d9db;
@@ -192,12 +192,12 @@ body {
   left: 2.3em;
   top: 0.3em;
   z-index: 5; }
-  .G_s .G_w {
+  .Y_x .Y_A {
     top: auto;
     left: 7.5em;
     bottom: 0.4em; }
 
-.G_X, .G_t, .G_x {
+.Y_o, .Y_t, .Y_P {
   width: 0.2em;
   height: 0.5em;
   position: absolute;
@@ -206,24 +206,24 @@ body {
   border-left: 0.1em solid #c0c2c4;
   top: -0.1em;
   left: 2.7em; }
-  .G_s .G_X, .G_s .G_t, .G_s .G_x {
+  .Y_x .Y_o, .Y_x .Y_t, .Y_x .Y_P {
     top: auto;
     left: 9.1em;
     bottom: -0.1em;
     border-top: 0em;
     border-bottom: 0.2em solid #9db3b9; }
 
-.G_t {
+.Y_t {
   left: 3.2em; }
-  .G_s .G_t {
+  .Y_x .Y_t {
     left: 9.6em; }
 
-.G_x {
+.Y_P {
   left: 3.7em; }
-  .G_s .G_x {
+  .Y_x .Y_P {
     left: 10.1em; }
 
-.G_K {
+.Y_Y {
   background: #77787b;
   width: 17em;
   height: 13em;
@@ -234,7 +234,7 @@ body {
   border-bottom-right-radius: 3em;
   border: 0.1em solid #5d5e60; }
 
-.G_N {
+.Y_G {
   width: 16.4em;
   height: 12.4em;
   position: absolute;
@@ -244,7 +244,7 @@ body {
   border-radius: 1em;
   border-bottom-right-radius: 3em; }
 
-.G_B {
+.Y_c {
   width: 11.3em;
   height: 9.7em;
   background: #6d793c;
@@ -254,7 +254,7 @@ body {
   margin: 0px auto;
   margin-top: 1.3em;
   position: relative; }
-  .G_B .G_R {
+  .Y_c .Y_l {
     width: 100%;
     height: 100%;
     background-size: 100% 100%;
@@ -266,7 +266,7 @@ body {
     -moz-opacity: 0.25;
     -khtml-opacity: 0.25;
     opacity: 0.25; }
-  .G_B .G_W {
+  .Y_c .Y_S {
     display: none;
     width: 100%;
     height: 100%;
@@ -279,29 +279,29 @@ body {
     border-width: 0 0 9.7em 10.7em;
     border-color: transparent transparent #616f30 transparent; }
 
-.G_h {
+.Y_5 {
   width: 15.6em;
   height: 0.6em;
   position: absolute;
   top: 0.3em;
   left: 0.5em; }
-  .G_h .G_5 {
+  .Y_5 .Y_F {
     width: 5.5em;
     height: 0.2em;
     border-top: 0.2em solid #7d6a83;
     border-bottom: 0.2em solid #564c65;
     float: left; }
-  .G_h .G_L {
+  .Y_5 .Y_Z {
     width: 7.3em;
     height: 0.5em;
     float: left;
     margin-left: 0.5em;
     background: #8c8e91; }
-    .G_h .G_L + .G_5 {
+    .Y_5 .Y_Z + .Y_F {
       width: 1.7em;
       margin-left: 0.5em; }
 
-.G_T {
+.Y_M {
   width: 1.7em;
   height: 0.1em;
   background: #b9bbbe;
@@ -310,7 +310,7 @@ body {
   top: 5.5em;
   left: 0.3em; }
 
-.G_U {
+.Y_b {
   width: 0.5em;
   height: 0.5em;
   border-radius: 50%;
@@ -318,7 +318,7 @@ body {
   top: 4.5em;
   left: 0.7em; }
 
-.G_k {
+.Y_q {
   /* ff3.6+ */
   /* safari4+,chrome */
   /* safari5.1+,chrome10+ */
@@ -331,13 +331,13 @@ body {
   box-shadow: 0px 0px 0.5em #f1606d;
   border: 0.1em solid #f1606d; }
 
-.G_Y {
+.Y_f {
   width: 11.1em;
   height: 1.1em;
   position: absolute;
   top: 17em;
   left: 1.3em; }
-  .G_Y:before {
+  .Y_f:before {
     content: " ";
     display: block;
     width: 4.5em;
@@ -345,7 +345,7 @@ body {
     margin-top: 0.4em;
     background: #adaabc;
     float: left; }
-  .G_Y:after {
+  .Y_f:after {
     content: " ";
     display: block;
     width: 6.2em;
@@ -353,7 +353,7 @@ body {
     background: #adaabc;
     float: right; }
 
-.G_y {
+.Y_k {
   width: 6.6em;
   height: 6.6em;
   background: #cfd0d2;
@@ -363,7 +363,7 @@ body {
   position: absolute;
   top: 20em;
   left: 1.1em; }
-  .G_y .G_C {
+  .Y_k .Y_C {
     width: 1.9em;
     height: 1.9em;
     background: #262929;
@@ -371,7 +371,7 @@ body {
     left: 2.4em;
     top: 2.3em;
     z-index: 999; }
-    .G_y .G_C:before {
+    .Y_k .Y_C:before {
       content: " ";
       width: 1.3em;
       height: 1.3em;
@@ -380,7 +380,7 @@ body {
       margin: 0.2em 0 0 0.2em;
       border-radius: 50%;
       border: 0.1em solid #1a1c1c; }
-  .G_y .G_E {
+  .Y_k .Y_i {
     width: 1.7em;
     height: 1.5em;
     position: absolute;
@@ -394,14 +394,14 @@ body {
     border-top-left-radius: 0.3em;
     border-top-right-radius: 0.3em;
     border: 0.1em solid #333; }
-    .G_y .G_E div {
+    .Y_k .Y_i div {
       width: 1.3em;
       height: 0.2em;
       background: #171414;
       margin: 0px auto 0.2em auto; }
-      .G_y .G_E div:first-child {
+      .Y_k .Y_i div:first-child {
         margin-top: 0.3em; }
-  .G_y .G_1 {
+  .Y_k .Y_V {
     top: auto;
     bottom: 0.8em;
     -webkit-border-radius: 0px;
@@ -413,13 +413,13 @@ body {
     border-radius: 0px;
     border-bottom-right-radius: 0.3em;
     border-bottom-left-radius: 0.3em; }
-  .G_y .G_F {
+  .Y_k .Y_K {
     -webkit-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     top: 2.4em;
     left: 0.7em; }
-  .G_y .G_r {
+  .Y_k .Y_j {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
@@ -427,7 +427,7 @@ body {
     left: auto;
     right: 0.6em; }
 
-.G_n {
+.Y_s {
   width: 7.4em;
   height: 3.4em;
   background: #cfd0d2;
@@ -440,7 +440,7 @@ body {
   -webkit-transform: rotate(-25deg);
   -ms-transform: rotate(-25deg);
   -moz-transform: rotate(-25deg); }
-  .G_n div {
+  .Y_s div {
     width: 2.5em;
     height: 2.5em;
     background: #2f3b32;
@@ -448,10 +448,10 @@ body {
     float: left;
     margin-top: 0.3em;
     border: 0.1em solid #ffffff; }
-    .G_n div:first-child {
+    .Y_s div:first-child {
       margin-left: 0.8em;
       margin-right: 0.5em; }
-    .G_n div:before {
+    .Y_s div:before {
       content: " ";
       width: 2.3em;
       height: 2.3em;
@@ -460,7 +460,7 @@ body {
       border-radius: 50%;
       margin: 0.1em 0px 0px 0.1em;
       position: absolute; }
-    .G_n div:after {
+    .Y_s div:after {
       content: " ";
       width: 2.1em;
       height: 2.1em;
@@ -470,7 +470,7 @@ body {
       margin: 0.2em 0px 0px 0.2em;
       position: absolute; }
 
-.G_A {
+.Y_y {
   width: 4em;
   height: 0.7em;
   position: absolute;
@@ -479,7 +479,7 @@ body {
   -webkit-transform: rotate(-25deg);
   -ms-transform: rotate(-25deg);
   -moz-transform: rotate(-25deg); }
-  .G_A:before, .G_A:after {
+  .Y_y:before, .Y_y:after {
     content: " ";
     display: block;
     width: 0.7em;
@@ -487,10 +487,10 @@ body {
     background: #adaabc;
     border: 0.1em solid #a5a1b5;
     float: left; }
-  .G_A:after {
+  .Y_y:after {
     float: right; }
 
-.G_2 {
+.Y_0 {
   width: 3.2em;
   height: 1.2em;
   background: #cfd0d2;
@@ -503,7 +503,7 @@ body {
   -webkit-transform: rotate(-25deg);
   -ms-transform: rotate(-25deg);
   -moz-transform: rotate(-25deg); }
-  .G_2:before {
+  .Y_0:before {
     content: " ";
     display: block;
     border-radius: 3em;
@@ -513,10 +513,10 @@ body {
     margin-top: 0.2em;
     width: 70%;
     height: 0.5em; }
-  .G_2 + .G_2 {
+  .Y_0 + .Y_0 {
     left: 10em; }
 
-.G_i {
+.Y_R {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -524,7 +524,7 @@ body {
   height: 4em;
   border-bottom-right-radius: 4em;
   overflow: hidden; }
-  .G_i:before {
+  .Y_R:before {
     content: " ";
     display: block;
     width: 0;
@@ -533,7 +533,7 @@ body {
     border-width: 0 0 4em 8em;
     border-color: transparent transparent #d8d8d8 transparent; }
 
-.G_J {
+.Y_8 {
   width: 17.5em;
   height: 5em;
   position: absolute;
@@ -542,7 +542,7 @@ body {
   -webkit-transform: rotate(-25deg);
   -ms-transform: rotate(-25deg);
   -moz-transform: rotate(-25deg); }
-  .G_J div {
+  .Y_8 div {
     width: 0.3em;
     height: 3em;
     float: left;
@@ -552,5 +552,5 @@ body {
     border-radius: 2em;
     position: relative;
     top: -2.3em; }
-    .G_J div:first-child {
+    .Y_8 div:first-child {
       margin-left: 3em; }
